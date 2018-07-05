@@ -1,0 +1,15 @@
+{
+  "name": "bio",
+  "version": "1.0.0",
+  "description": "A VuePress project",
+  "author": "rubytomato",
+  "license" : "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^0.10.2"
+  }
+}
