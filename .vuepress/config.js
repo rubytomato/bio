@@ -27,5 +27,6 @@ module.exports = {
       ]
     }
   },
+  base: '/bio',
   dest: 'docs'
 }
