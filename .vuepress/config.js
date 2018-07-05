@@ -27,6 +27,6 @@ module.exports = {
       ]
     }
   },
-  base: '/bio',
+  base: '/bio/',
   dest: 'docs'
 }
